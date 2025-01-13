@@ -1,2 +1,2 @@
 # Acute-Projects
-High fidelity wireframes for Acute Projects project management system
+High fidelity Prototypes for Acute Projects project management system
