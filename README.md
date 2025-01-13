@@ -1,2 +1,2 @@
 # Acute-Projects
-High fidelity Prototypes for Acute Projects project management system
+High-fidelity prototype for Acute Projects - Project Management System
